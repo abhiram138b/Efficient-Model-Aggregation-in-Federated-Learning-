@@ -1,6 +1,5 @@
-# Communication Efficient Federated Learning 
+# Communication Efficient Federated Learning
 
-This repository contains the code to run simulations from the [Communication-Efficient Federated Learning for Wireless Edge Intelligence in IoT](https://ieeexplore.ieee.org/document/8917724) paper in IEEE IoT journal.
 
 ## Requirements
 - python     = 3.7
